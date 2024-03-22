@@ -53,3 +53,4 @@ Exemplo em cUrl:
 curl -X POST -H "Content-Type: application/json" -d '{" texto ": "banana"}' https://danielono.azurewebsites.net/api/ManipulacaoString
 
 As requisições via Postman ou cUrl precisam serem feitas fora da rede Caixa.
+![alt text](https://github.com/danielyujiono/desafio-back/blob/main/CapturePostman.png?raw=true)
