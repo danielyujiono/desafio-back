@@ -28,7 +28,7 @@ Exemplo de requisição:
 
 A API retornará um JSON com a propriedade "palindromo" indicando se a string é um palíndromo e "ocorrencias_caracteres" contendo a contagem de ocorrências de caracteres na string. 
 
-Caracteres acentudas serão considerados caracteres sem acentuação.
+Caracteres acentuados serão considerados caracteres sem acentuação.
 
 Limite de caracteres estabelecido em 1.000 caracteres para prevenir ataques de negação de serviço (DoS).
 
