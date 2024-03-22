@@ -26,7 +26,11 @@ Exemplo de requisição:
   "texto": "arara"
 }
 
-A API retornará um JSON com a propriedade "palindromo" indicando se a string é um palíndromo e "ocorrencias_caracteres" contendo a contagem de ocorrências de caracteres na string.
+A API retornará um JSON com a propriedade "palindromo" indicando se a string é um palíndromo e "ocorrencias_caracteres" contendo a contagem de ocorrências de caracteres na string. 
+
+Caracteres acentudas serão considerados caracteres sem acentuação.
+
+Limite de caracteres estabelecido em 1.000 caracteres para prevenir ataques de negação de serviço (DoS).
 
 Exemplo de resposta:
 
@@ -37,3 +41,13 @@ Exemplo de resposta:
     "r": 2
   }
 }
+
+## Utilização em produção
+
+A solução está hospedada em:
+https://danielono.azurewebsites.net/api/ManipulacaoString 
+
+A requisição à API pode ser feita através de Postman ou de cUrl.
+
+Exemplo em cUrl:
+curl -X POST -H "Content-Type: application/json" -d '{" texto ": "banana"}' https://danielono.azurewebsites.net/api/ManipulacaoString
