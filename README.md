@@ -51,3 +51,5 @@ A requisição à API pode ser feita através de Postman ou de cUrl.
 
 Exemplo em cUrl:
 curl -X POST -H "Content-Type: application/json" -d '{" texto ": "banana"}' https://danielono.azurewebsites.net/api/ManipulacaoString
+
+As requisições via Postman ou cUrl precisam serem feitas fora da rede Caixa.
