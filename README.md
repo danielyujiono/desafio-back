@@ -13,7 +13,7 @@ Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 
 1. Clone este repositório para o seu computador:
 
-git clone https://github.com/seu-usuario/AnalisaPalavraAPI.git
+git clone https://github.com/danielyujiono/desafio-back.git
 
 2. Navegue até o diretório do projeto: cd AnalisaPalavraAPI
 3. Execute o projeto usando o comando dotnet: dotnet run
