@@ -7,7 +7,6 @@ Este é um projeto de uma API em .NET Core que recebe um JSON via POST contendo 
 Antes de começar, certifique-se de ter o seguinte instalado em sua máquina:
 
 - [.NET 6 SDK](https://dotnet.microsoft.com/download/dotnet/6.0)
-- [AWS CLI](https://aws.amazon.com/cli/) (se você planeja implantar na AWS)
 
 ## Como executar
 
