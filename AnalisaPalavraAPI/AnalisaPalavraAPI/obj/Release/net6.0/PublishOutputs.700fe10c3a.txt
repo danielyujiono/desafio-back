@@ -1,0 +1,12 @@
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\AnalisaPalavraAPI.exe
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\AnalisaPalavraAPI.dll
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\AnalisaPalavraAPI.deps.json
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\AnalisaPalavraAPI.runtimeconfig.json
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\AnalisaPalavraAPI.pdb
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\yujio\source\repos\AnalisaPalavraAPI\AnalisaPalavraAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
